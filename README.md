@@ -13,7 +13,7 @@
 
 - Create a python virtual environment (optional).
 - Clone the repo.
-- Install the requirements (Using pip).
 - Activate the environment (if you are using one).
+- Install the requirements (Using pip).
 - Run `python producer.py` to start the producer process.
 - Run `python consumer.py` to start the consumer process.
